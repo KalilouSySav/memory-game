@@ -18,6 +18,12 @@ To get started with this project, you'll need to install a local HTTP server. He
 
 Ensure that you have Node.js installed on your machine. This will also install npm (Node Package Manager) which is required to install http-server.
 
+### Unsplash API
+
+This project uses the Unsplash API to generate random images for the cards. To use the API, you'll need to sign up for a developer account and create an application. You can do so by visiting the [Unsplash Developers](https://unsplash.com/developers) page.
+
+Once you have created an application, you'll need to copy the access key and paste it in the `script.js` file. You can do so by replacing the value of the `accessKey` variable with your access key.
+
 ### Installation
 
 1. Open your terminal.
