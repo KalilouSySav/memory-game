@@ -1,4 +1,4 @@
-import { apiKey } from './secrets.js';
+import apiKey from './secrets.js';
 
 let theme = prompt('Pick a theme. Example : Nature, Animals, Landscape, Space, Architecture');
 let keyword = theme;
